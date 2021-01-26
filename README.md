@@ -1,2 +1,2 @@
 # TkinterProject
-A simple notepad developed by python tkinter.
+A simple notepad developed using python tkinter.
